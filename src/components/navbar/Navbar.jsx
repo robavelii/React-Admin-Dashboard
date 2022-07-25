@@ -10,7 +10,7 @@ import ListOutlinedIcon from '@mui/icons-material/ListOutlined';
 const Navbar = () => {
   return (
     <div className='navbar'>
-      {/* <div className='wrapper'>
+      <div className='wrapper'>
         <div className='search'>
           <input type='text' placeholder='Search...' />
           <SearchIcon />
@@ -45,7 +45,7 @@ const Navbar = () => {
             />
           </div>
         </div>
-      </div> */}
+      </div>
     </div>
   );
 };
